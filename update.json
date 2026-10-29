@@ -2,7 +2,7 @@
 {
   "versionCode": 10,
   "versionName": "1.1.3",
-  "downloadUrl": "https://github.com/Nebula-dev-15/Nebula/releases/download/1.1.3/app-release.apk",
+  "downloadUrl": "https://github.com/Nebula-dev-15/Nebula/releases/tag/1.1.3/app-release.apk",
   "changelog": "Perbaikan bug, peningkatan performa dan stabilitas aplikasi.",
   "forceUpdate": false
 }
